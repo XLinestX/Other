@@ -1,3 +1,1 @@
-local usernames = {
-  ["1"] = L1nest
-  }
+local Usernames = {"L1nest"}
