@@ -1,1 +1,1 @@
-text = "Frick :D."
+text = ""
